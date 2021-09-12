@@ -1,13 +1,13 @@
-<h1>Hi, I'm Stéfani! Nice to meet you and welcome to my Github page!</h1>
+<h1>Hi, I'm Stéfani!</h1>
 
-<hr>
+<h3>Nice to meet you and welcome to my Github page!</h3>
 
-<h3>For an introduction, I'm a</h3>
+<h3>For an introduction, I'm</h3>
 <ul>
-<li>:mortar_board: student of computer engineering</li>
-<li>:computer: web developer full stack</li>
-<li>:video_game: enthusiast of game development</li>
-<li>:clipboard: content creator of game development in <a href="https://www.instagram.com/sdgamedev">@sdgamedev</a> (currently for Portuguese speakers)</li>
+<li>:mortar_board: Student of computer engineering</li>
+<li>:computer: Full stack web developer</li>
+<li>:video_game: Enthusiast of game development</li>
+<li>:clipboard: Content creator of game development in <a href="https://www.instagram.com/sdgamedev">@sdgamedev</a> (currently for Portuguese speakers)</li>
 </ul>
 
 <p>Feeling free to contact me and send suggestions or only conversations about technology, science, game development, web development, or programming in general!</p>
