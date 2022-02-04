@@ -10,7 +10,7 @@
 <li>:clipboard: Content creator of game development in <a href="https://www.instagram.com/sdgamedev">@sdgamedev</a> (currently for Portuguese speakers)</li>
 </ul>
 
-<p>Feeling free to contact me and send suggestions, or only chat about technology, science, game development, web development, programming or STEM in general!</p>
+<p>Feeling free to contact me and send suggestions, or only chat about technology, science, game development, web development, programming or STEAM in general!</p>
 
 <p>Find and contact me in</p>
 <a href="https://www.linkedin.com/in/stefani-diniz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
