@@ -5,8 +5,9 @@
 <h3>For an introduction, I'm</h3>
 <ul>
 <li>:mortar_board: Student of computer engineering</li>
-<li>:computer: Full stack web developer</li>
+<li>:computer: Web developer full stack</li>
 <li>:video_game: Indie game developer</li>
+<li>:joystick: Women In Games Ambassador</li>
 <li>:clipboard: Content creator of game development in <a href="https://www.instagram.com/sdgamedev">@sdgamedev</a> (currently for Portuguese speakers)</li>
 </ul>
 
